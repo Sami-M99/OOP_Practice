@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trying.Files_and_Folders">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Files_and_Folders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.Empolyee">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAACAAAA=</HashCode>
+      <FileName>abstract_get_set\Empolyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.Person">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAQAQAAAACAAAA=</HashCode>
+      <FileName>abstract_get_set\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.Customer">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Email_Password\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.MyServer">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Email_Password\MyServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.Numbers">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Numbers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trying.Program">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAAAAAAAAAAIAAAAAAAAAQAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
